@@ -23,13 +23,13 @@
 ### nextjs
 - [nextjs document-page*](https://github.com/davJ-star/nextjs-boilerplate?tab=readme-ov-file) - [메인 ](https://github.com/davJ-star/nextjs-boilerplate/blob/main/app/page.tsx)
 - [commerce site*](https://github.com/davJ-star/nextjs-commerce?tab=readme-ov-file)
-- 
+- [django를 이용한 nextjs 풀스택 document](https://github.com/davJ-star/sb1-tpy9h3?tab=readme-ov-file)
 
 
 ## 프로젝트 링크
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
-- [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
+- [ai 기반 출결관리 시스템](https://github.com/davJ-star/attendance-management-nextjs?tab=readme-ov-file)
 - [쇼핑 사이트(nextjs)](https://github.com/davJ-star/nextjs-commerce?tab=readme-ov-file)
 
 - [스타벅스 사이트](https://github.com/davJ-star/Starbucks/tree/master)
