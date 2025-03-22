@@ -11,12 +11,17 @@
 
 ### pure js
 
+없으면 공란으로 남겨둘 예정
+(es5+와 6+를 넣을 것 같다.)
+
+
 
 
 ## 프로젝트 링크
 
 - ### [clock과 로그인을 통한 todolist 페이지(오늘의 명언과 날씨포함 배경)](https://github.com/davJ-star/Nomads-coder/tree/master/%5Bstep%5D%20JS/%5Bnomad%20coder%5DChrome%20JS/%5Bpractice%5D%20Chrome%20Js)
-  [참고](https://github.com/davJ-star/Nomads-coder/tree/master/%5Bstep%5D%20JS/%5Bnomad%20coder%5DChrome%20JS)
+- [스타벅스 사이트](https://github.com/davJ-star/Starbucks/tree/master)
+    - [응용한 스타벅스 사이트(상품 카테고리) for 팀플](https://github.com/davJ-star/Starbucks/tree/master)
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
