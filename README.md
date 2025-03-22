@@ -7,15 +7,16 @@
         - [참고](https://github.com/davJ-star/web_FE/edit/main/README.md#clock%EA%B3%BC-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%84-%ED%86%B5%ED%95%9C-todolist-%ED%8E%98%EC%9D%B4%EC%A7%80%EC%98%A4%EB%8A%98%EC%9D%98-%EB%AA%85%EC%96%B8%EA%B3%BC-%EB%82%A0%EC%94%A8%ED%8F%AC%ED%95%A8-%EB%B0%B0%EA%B2%BD)
 
 ### pure js
-
 없으면 공란으로 남겨둘 예정
 (es5+와 6+를 넣을 것 같다.)
+- [스타벅스 프로젝트 분석 및 참고](https://github.com/davJ-star/Starbucks_coffee)
+
 
 ### react
 - [styling-with-styled-components](https://github.com/davJ-star/styling-with-styled-components/tree/master) - [메인](https://github.com/davJ-star/styling-with-styled-components/blob/master/src/App.js)
 
 ### typescript
-
+[basic과 optional 타입](https://github.com/davJ-star/Nomads-coder/tree/master/%5Bstep%5D%20Ts/%5BBefore%20Block-Chain%5D%20Typescript%20syntax/ts%20syntax)
 
 ### next
 
