@@ -28,12 +28,15 @@
 
 ## 프로젝트 링크
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
-- [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
+- []()
 - [ai 기반 출결관리 시스템](https://github.com/davJ-star/attendance-management-nextjs?tab=readme-ov-file)
 - [쇼핑 사이트(nextjs)](https://github.com/davJ-star/nextjs-commerce?tab=readme-ov-file)
 
 - [스타벅스 사이트](https://github.com/davJ-star/Starbucks/tree/master)
     - [응용한 스타벅스 사이트(상품 카테고리) for 팀플](https://github.com/davJ-star/Starbucks/tree/master)
+    - 
+- [회원 계정 관련 모든 것(팀플)](https://github.com/side-projectFOR/signup/tree/main)
+- [채팅 사이트(팀플)](https://github.com/side-projectFOR/chat/tree/sinhyoung)
 - [오버워치](https://github.com/davJ-star/Overwatch)
   
 - ### [clock과 로그인을 통한 todolist 페이지(오늘의 명언과 날씨포함 배경)](https://github.com/davJ-star/Nomads-coder/tree/master/%5Bstep%5D%20JS/%5Bnomad%20coder%5DChrome%20JS/%5Bpractice%5D%20Chrome%20Js)
