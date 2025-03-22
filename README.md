@@ -28,7 +28,7 @@
 
 ## 프로젝트 링크
 - [first-spring-starter](https://github.com/davJ-star/first-spring-starter)
-- []()
+- [의약품 복용 알림 서비스](https://github.com/davJ-star/hanwha-ieum-seongwook)
 - [ai 기반 출결관리 시스템](https://github.com/davJ-star/attendance-management-nextjs?tab=readme-ov-file)
 - [쇼핑 사이트(nextjs)](https://github.com/davJ-star/nextjs-commerce?tab=readme-ov-file)
 
