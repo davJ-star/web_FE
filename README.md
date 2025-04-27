@@ -34,7 +34,7 @@
 - [쇼핑 사이트(nextjs)](https://github.com/davJ-star/nextjs-commerce?tab=readme-ov-file)
 
 - [스타벅스 사이트](https://github.com/davJ-star/Starbucks/tree/master)
-    - [응용한 스타벅스 사이트(상품 카테고리) for 팀플](https://github.com/davJ-star/Starbucks/tree/master)
+    - [응용한 스타벅스 사이트(상품 카테고리) for 팀플](https://github.com/siat-class-project/starbuck-menu-site)
     - 
 - [회원 계정 관련 모든 것(팀플)](https://github.com/side-projectFOR/signup/tree/main)
 - [채팅 사이트(팀플)](https://github.com/side-projectFOR/chat/tree/sinhyoung)
